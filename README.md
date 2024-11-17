@@ -4,6 +4,4 @@ Storm analysis involves the systematic examination of meteorological data to und
 Reason For Storm Analysis
 This process plays a critical role in climate change research and disaster preparedness by providing actionable insights for policymakers, emergency response teams, and environmental organizations. It enables the development of mitigation strategies, resource allocation plans, and community resilience measures to minimize the adverse effects of storms.
 
-Storm Analysis
-![My Image](https://unsplash.com/photos/a-woman-sitting-at-a-table-working-on-a-laptop-jbmjneY3a6g "This is an optional title")
 
